@@ -3,6 +3,11 @@
 
 Easy-Docs is a modern, collaborative document workspace built with the latest web technologies. It's designed to help you create, organize, and share your ideas and documents seamlessly.
 
+# QR Code To Try it Yourself
+![easydocsqr](https://github.com/user-attachments/assets/8bb7a6dc-3739-45b0-a00b-495bda86e219)
+
+
+
 ## Demo
 
 [![Easy-Docs Demo](https://img.youtube.com/vi/TGHms-kE4Mg/0.jpg)](https://www.youtube.com/watch?v=TGHms-kE4Mg)
